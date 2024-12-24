@@ -1,3 +1,3 @@
 remote smart ambulance 
 
-foldable surgeury rooms
+foldable surgery rooms
